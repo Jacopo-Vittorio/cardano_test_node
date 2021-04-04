@@ -3,5 +3,5 @@
 "name":"testPool",
 "description" :"test pool la mia pool di prova ",
 "ticker": "TEST",
-"homepage":""
+"homepage":"https://github.com/Jacopo-Vittorio/cardano_test_node.git"
 }
